@@ -1,4 +1,4 @@
-# Documentação da API de Gerenciamento de Tarefas
+# API de Gerenciamento de Tarefas
 Visão Geral
 A API de Gerenciamento de Tarefas foi desenvolvida utilizando o .NET Core 8.0 e ASP.NET Core. Esta API permite realizar operações de gerenciamento de tarefas, como listar, criar, atualizar e excluir tarefas, além de funcionalidades para gerenciar usuários, incluindo criação de usuários, login e busca de usuário por ID.
 Esta documentação oferece uma visão detalhada da API de Gerenciamento de Tarefas, descrevendo os endpoints disponíveis, os requisitos não funcionais e as tecnologias utilizadas.
